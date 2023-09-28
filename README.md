@@ -22,9 +22,9 @@
         <h3>The Lake Challenge</h3>
         <img src="img/kayak.jpg" alt="Lake challenge kayak" title="Kayak on Laguna Brava">
         <p>
-        <ul>
+        
         Put your strengths to work by crossing the four kilometers in a kayak guided by a local guide. This adventure is physically demanding and recommended for only those in excellent physical condition.
-            
+        <ul>    
                 <li>Duration: 5 hours approx.</li>
                 <li>Price: USD 50</li>
                 <li>Minimum: 2 pax</li>
@@ -34,9 +34,9 @@
         <h3>Sit Back & Relax</h3>
         <img src="img/boat.jpg" alt="Sit Back & Relax boat" title="Boat trip">
         <p>
-        <ul>
+        
         Admire the nature of Laguna Brava by boarding a rowing boat around the most beautiful parts of the lake. This guided visit does not require physical effort.
-       
+       <ul>
             <li>Duration: 5 hours approx.</li>
             <li> Price: USD 30</li>
             <li>Minimum: 4 pax</li>
